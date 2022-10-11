@@ -1,0 +1,504 @@
+ID,Name,Level,Language
+3,Abenberg,V,de
+5,Abensberg,V,de
+9,Augustusburg,V,de
+11,Adelsheim,V,de
+15,Adenau,V,de
+17,Eibelstadt,V,de
+21,Bergneustadt,V,de
+23,Bergheim,C,de
+27,Bersenbr?ck,V,de
+30,Berlin,C,de
+34,Bernau bei Berlin,V,de
+36,Welzheim,V,de
+39,Wemding,V,de
+43,Weener,V,de
+47,Wehr,V,de
+51,Werdau,V,de
+53,Garding,V,de
+55,Dransfeld,V,de
+57,Drebkau,V,de
+60,Dresden,C,de
+63,Drensteinfurt,V,de
+67,Drolshagen,V,de
+69,D?ren,C,de
+72,D?sseldorf,C,de
+76,Kandel,V,de
+79,Kandern,V,de
+81,Kappeln,V,de
+83,Karben,V,de
+85,Karlsruhe,C,de
+87,Karlstadt,V,de
+89,Kaarst,V,de
+91,Kassel,C,de
+94,M?nster,C,de
+97,M?nchen,C,de
+99,M?nchenbernsdorf,V,de
+102,M?nzenberg,V,de
+105,Premnitz,V,de
+109,Rockenhausen,V,de
+112,Saarlouis,V,de
+115,Sandersdorf-Brehna,V,de
+119,Sankt Augustin,C,de
+122,Vienna,C,de
+124,Styria,C,de
+127,Upper Austria,C,de
+131,Salzburg,C,de
+133,Tyrol,C,de
+135,Carinthia,V,de
+137,Carinthia,V,de
+139,Upper Austria,V,de
+143,Lower Austria,V,de
+147,Vorarlberg,V,de
+150,Lower Austria,V,de
+154,Upper Austria,V,de
+156,Vorarlberg,V,de
+159,Vorarlberg,V,de
+162,Upper Austria,V,de
+165,Lower Austria,V,de
+167,Lower Austria,V,de
+170,Carinthia,V,de
+172,Styria,V,de
+175,Lower Austria,V,de
+178,Moscow,C,ru
+180,Saint Petersburg,C,ru
+182,Novosibirsk,C,ru
+185,Yekaterinburg,C,ru
+188,Kazan,C,ru
+192,Nizhny Novgorod,C,ru
+196,Chelyabinsk,C,ru
+198,Samara,C,ru
+201,Omsk,C,ru
+204,Rostov-on-Don,C,ru
+206,Ufa,C,ru
+209,Krasnoyarsk,C,ru
+212,Azov,C,ru
+216,Kuznetsk,C,ru
+219,Ust-Ilimsk,C,ru
+223,Novouralsk,C,ru
+226,Klin,C,ru
+228,Vidnoye,C,ru
+231,Murino,C,ru
+235,Yalta,C,ru
+237,Ozyorsk,C,ru
+240,Kropotkin,C,ru
+243,Bor,C,ru
+245,Vsevolozhsk,C,ru
+249,Gelendzhik,C,ru
+253,Melbourne,C,en
+256,Sydney,C,en
+259,Brisbane,C,en
+263,Perth,C,en
+265,Adelaide,C,en
+269,Gold Coast�Tweed Heads,C,en
+272,Newcastle�Maitland,C,en
+276,Canberra�Queanbeyan,C,en
+279,Sunshine Coast,C,en
+281,Central Coast,C,en
+283,Wollongong,C,en
+285,Geelong,C,en
+287,Hobart,C,en
+289,Townsville,C,en
+292,Cairns,C,en
+295,Toowoomba,C,en
+297,Darwin,C,en
+299,Ballarat,C,en
+301,Bendigo,C,en
+304,Albury�Wodonga,V,en
+307,Launceston,V,en
+309,Mackay,V,en
+312,Rockhampton,V,en
+315,Melton,V,en
+318,Bunbury,V,en
+321,Coffs Harbour,V,en
+325,Bundaberg,V,en
+328,Wagga Wagga,V,en
+330,Hervey Bay,V,en
+333,Rome,C,it
+335,Milan,C,it
+337,Naples,C,it
+341,Turin,C,it
+343,Palermo,C,it
+346,Genoa,C,it
+350,Bologna,C,it
+353,Florence,C,it
+355,Bari,C,it
+358,Catania,C,it
+362,Pesaro,V,it
+364,Lecce,V,it
+366,Barletta,V,it
+368,Alessandria,V,it
+371,La Spezia,V,it
+373,Pisa,V,it
+376,Pistoia,V,it
+379,Guidonia Montecelio,V,it
+383,Lucca,V,it
+385,Catanzaro,V,it
+387,Brindisi,V,it
+390,Torre del Greco,V,it
+392,Treviso,V,it
+395,Busto Arsizio,V,it
+397,Como,V,it
+401,Marsala,V,it
+403,Madrid,C,es
+407,Barcelona,C,es
+410,Valencia(�Sagunto),C,es
+414,Seville,C,es
+418,Bilbao,C,es
+422,M?laga,C,es
+425,Oviedo�Gij?n�Avil?s,C,es
+429,Alicante�Elche(�Elda),C,es
+431,Las Palmas,C,es
+435,Zaragoza,C,es
+438,Murcia�Orihuela,C,es
+440,Santa Cruz de Tenerife�La Laguna,C,es
+444,Granada,C,es
+448,Palma,C,es
+450,Lugo,V,es
+453,Palencia,V,es
+456,Toledo,V,es
+460,Kyiv,C,ua
+464,Kharkiv,C,ua
+466,Odesa,C,ua
+468,Dnipro,C,ua
+471,Donetsk,C,ua
+475,Zaporizhzhia,C,ua
+478,Lviv,C,ua
+480,Kryvyi Rih,C,ua
+483,Mykolaiv,C,ua
+486,Sevastopol,C,ua
+488,Mariupol,C,ua
+490,Luhansk,C,ua
+494,Vinnytsia,C,ua
+497,Makiivka,C,ua
+500,Simferopol,C,ua
+504,Chernihiv,C,ua
+508,Kherson,C,ua
+512,Poltava,C,ua
+515,Khmelnytskyi,C,ua
+519,Cherkasy,C,ua
+521,Chernivtsi,C,ua
+524,Zhytomyr,C,ua
+526,Sumy,C,ua
+528,Rivne,C,ua
+530,Horlivka,C,ua
+533,Ivano-Frankivsk,C,ua
+536,Kamianske,C,ua
+538,Ternopil,C,ua
+540,Kropyvnytskyi,C,ua
+544,Kremenchuk,C,ua
+547,Lutsk,C,ua
+549,Bila Tserkva,C,ua
+553,Kerch,C,ua
+555,Melitopol,C,ua
+557,Kramatorsk,C,ua
+559,Uzhhorod,C,ua
+561,Brovary,C,ua
+563,Yevpatoria,C,ua
+565,Berdiansk,C,ua
+567,Nikopol,C,ua
+569,Sloviansk,C,ua
+571,Alchevsk,C,ua
+575,Pavlohrad,C,ua
+578,Sieverodonetsk,C,ua
+580,Kamianets-Podilskyi,V,ua
+582,Lysychansk,V,ua
+584,Mukachevo,V,ua
+587,Konotop,V,ua
+590,Uman,V,ua
+593,Khrustalnyi,V,ua
+595,Yalta,V,ua
+599,Oleksandriia,V,ua
+603,Yenakiieve,V,ua
+605,Drohobych,V,ua
+608,Berdychiv,V,ua
+611,Kadiyivka,V,ua
+613,Shostka,V,ua
+617,Bakhmut,V,ua
+620,Izmail,V,ua
+622,Novomoskovsk,V,ua
+624,Kostiantynivka,V,ua
+628,Kovel,V,ua
+631,Feodosiya,V,ua
+634,Nizhyn,V,ua
+638,Smila,V,ua
+642,Kalush,V,ua
+644,Chervonohrad,V,ua
+647,Boryspil,V,ua
+649,Pervomaisk,V,ua
+653,Dovzhansk,V,ua
+656,Irpin,V,ua
+660,Korosten,V,ua
+662,Pokrovsk,V,ua
+665,Kolomyia,V,ua
+667,Stryi,V,ua
+669,Chornomorsk,V,ua
+673,New York,C,en
+677,Los Angeles,C,en
+681,Chicago,C,en
+684,Houston,C,en
+688,Phoenix,C,en
+692,Philadelphia,C,en
+694,San Antonio,C,en
+697,San Diego,C,en
+700,Dallas,C,en
+702,San Jose,C,en
+705,Austin,C,en
+708,Jacksonville,C,en
+710,Fort Worth,C,en
+712,Columbus,C,en
+715,Indianapolis,C,en
+718,Charlotte,C,en
+721,San Francisco,C,en
+723,Seattle,C,en
+726,Denver,C,en
+730,Washington,C,en
+734,Nashville,C,en
+738,Oklahoma City,C,en
+740,El Paso,C,en
+742,Boston,C,en
+746,Portland,C,en
+748,Las Vegas,C,en
+752,Detroit,C,en
+755,Memphis,C,en
+757,Louisville,C,en
+759,Baltimore,C,en
+761,Milwaukee,C,en
+763,Albuquerque,C,en
+766,Tucson,C,en
+768,Fresno,C,en
+770,Sacramento,C,en
+773,Kansas City,C,en
+775,Mesa,C,en
+779,Atlanta,C,en
+781,Omaha,C,en
+785,Colorado Springs,C,en
+789,Raleigh,C,en
+792,Long Beach,C,en
+794,Virginia Beach,C,en
+797,Miami,C,en
+799,Oakland,C,en
+801,Minneapolis,C,en
+804,Tulsa,C,en
+808,Bakersfield,C,en
+810,Wichita,C,en
+812,Arlington,C,en
+814,Aurora,C,en
+816,Tampa,C,en
+818,New Orleans,C,en
+822,Cleveland,C,en
+826,Honolulu,C,en
+828,Anaheim,C,en
+832,Lexington,C,en
+834,Stockton,C,en
+836,Corpus Christi,C,en
+838,Henderson,C,en
+842,Riverside,C,en
+844,Newark,C,en
+846,Saint Paul,C,en
+849,Santa Ana,C,en
+852,Cincinnati,C,en
+854,Irvine,C,en
+857,Orlando,C,en
+861,Pittsburgh,C,en
+864,St. Louis,C,en
+866,Greensboro,C,en
+868,Odessa,V,en
+870,Waterbury,V,en
+872,Springfield,V,en
+874,League City,V,en
+876,Downey,V,en
+878,Gresham,V,en
+880,High Point,V,en
+883,Broken Arrow,V,en
+887,Peoria,V,en
+891,Lansing,V,en
+895,Lakeland,V,en
+898,Pompano Beach,V,en
+900,Costa Mesa,V,en
+902,Pueblo,V,en
+906,Lewisville,V,en
+910,Miami Gardens,V,en
+912,Las Cruces,V,en
+916,Sugar Land,V,en
+920,Murrieta,V,en
+923,Ventura,V,en
+927,Everett,V,en
+930,Temecula,V,en
+934,Dearborn,V,en
+938,Santa Maria,V,en
+941,West Covina,V,en
+944,El Monte,V,en
+946,Greeley,V,en
+948,Sparks,V,en
+952,Centennial,V,en
+955,Boulder,V,en
+957,Sandy Springs,V,en
+960,Inglewood,V,en
+963,Edison,V,en
+967,South Fulton,V,en
+969,Green Bay,V,en
+972,Burbank,V,en
+976,Renton,V,en
+979,Hillsboro,V,en
+983,El Cajon,V,en
+986,Tyler,V,en
+988,Davie,V,en
+992,San Mateo,V,en
+995,Brockton,V,en
+998,Concord,V,en
+1001,Jurupa Valley,V,en
+1004,Daly City,V,en
+1006,Allen,V,en
+1010,Rio Rancho,V,en
+1012,Rialto,V,en
+1015,Woodbridge,V,en
+1019,South Bend,V,en
+1021,Spokane Valley,V,en
+1023,Norwalk,V,en
+1025,Menifee,V,en
+1028,Vacaville,V,en
+1031,Wichita Falls,V,en
+1033,Davenport,V,en
+1037,Quincy,V,en
+1040,Chico,V,en
+1043,Lynn,V,en
+1047,Lee's Summit,V,en
+1051,New Bedford,V,en
+1054,Federal Way,V,en
+1056,Clinton,V,en
+1060,Edinburg,V,en
+1062,Nampa,V,en
+1066,Roanoke,V,en
+1068,Paris,C,fr
+1071,Marseille,C,fr
+1075,Lyon,C,fr
+1079,Toulouse,C,fr
+1081,Nice,C,fr
+1084,Nantes,C,fr
+1087,Strasbourg,C,fr
+1090,Montpellier,C,fr
+1094,Bordeaux,C,fr
+1096,Lille,C,fr
+1100,Rennes,C,fr
+1103,Reims,C,fr
+1105,Le Havre,C,fr
+1107,Saint-?tienne,C,fr
+1110,Toulon,C,fr
+1112,Grenoble,C,fr
+1114,Dijon,C,fr
+1116,N?mes,C,fr
+1119,Angers,C,fr
+1123,Villeurbanne,C,fr
+1125,Le Mans,C,fr
+1129,Saint-Denis,C,fr
+1133,Aix-en-Provence,C,fr
+1136,Clermont-Ferrand,C,fr
+1140,Brest,C,fr
+1142,Limoges,C,fr
+1145,Tours,C,fr
+1147,Amiens,C,fr
+1149,Perpignan,C,fr
+1152,Metz,C,fr
+1154,Besan?on,C,fr
+1156,Boulogne-Billancourt,C,fr
+1160,Orl?ans,C,fr
+1163,Mulhouse,C,fr
+1165,Rouen,C,fr
+1168,Saint-Denis,C,fr
+1171,Caen,C,fr
+1174,Argenteuil,C,fr
+1177,Saint-Paul,C,fr
+1180,Montreuil,C,fr
+1183,Nancy,C,fr
+1187,Roubaix,V,fr
+1189,Tourcoing,V,fr
+1191,Nanterre,V,fr
+1193,Avignon,V,fr
+1195,Vitry-sur-Seine,V,fr
+1197,Cr?teil,V,fr
+1201,Dunkirk,V,fr
+1203,Poitiers,V,fr
+1207,Asni?res-sur-Seine,V,fr
+1211,Stockholm,C,se
+1213,Goeteborg,C,se
+1217,Malmoe,C,se
+1221,Uppsala,C,se
+1225,Sollentuna,C,se
+1229,Soedermalm,C,se
+1233,Vaesteras,C,se
+1237,OErebro,C,se
+1239,Linkoeping,C,se
+1243,Helsingborg,C,se
+1246,Joenkoeping,V,se
+1248,Norrkoeping,V,se
+1251,Huddinge,V,se
+1254,Lund,V,se
+1257,Umea,V,se
+1261,Haninge,V,se
+1264,Gaevle,V,se
+1267,Boras,V,se
+1271,Soedertaelje,V,se
+1273,Kungsholmen,V,se
+1275,Eskilstuna,V,se
+1279,Solna,V,se
+1281,Halmstad,V,se
+1283,Vaexjoe,V,se
+1285,Karlstad,V,se
+1289,Bromma,V,se
+1293,Moelndal,V,se
+1295,Vasastan,V,se
+1297,Taby,V,se
+1300,Sundsvall,V,se
+1304,OEstersund,V,se
+1308,Trollhaettan,V,se
+1311,Lulea,V,se
+1315,Lidingoe,V,se
+1319,Borlaenge,V,se
+1322,Tumba,V,se
+1326,Kristianstad,V,se
+1328,Kalmar,V,se
+1331,Falun,V,se
+1335,Skoevde,V,se
+1338,Upplands Vaesby,V,se
+1342,Karlskrona,V,se
+1344,OEstermalm,V,se
+1346,Skelleftea,V,se
+1348,Oslo,C,no
+1351,Bergen,C,no
+1355,Trondheim,C,no
+1358,Stavanger,C,no
+1361,Kristiansand,V,no
+1365,Fredrikstad,V,no
+1367,Sandnes,V,no
+1369,Troms?,V,no
+1372,Skien,V,no
+1376,Drammen,V,no
+1380,Sarpsborg,V,no
+1384,Bod?,V,no
+1388,Sandefjord,V,no
+1391,?lesund,V,no
+1393,Larvik,V,no
+1397,Arendal,V,no
+1401,T?nsberg,V,no
+1405,Porsgrunn,V,no
+1409,Haugesund,V,no
+1411,Hamar,V,no
+1413,Halden[c],V,no
+1416,Moss,V,no
+1419,Gj?vik,V,no
+1423,Lillehammer,V,no
+1427,Horten,V,no
+1429,Molde,V,no
+1431,Kongsberg,V,no
+1433,Harstad,V,no
+1435,Kristiansund (town),V,no
+1439,Steinkjer,V,no
+1441,Grimstad,V,no
+1445,Narvik,V,no
+1447,Kongsvinger,V,no
+1449,H?nefoss,V,no
+1451,Mandal,V,no
+1454,Egersund,V,no
+1458,Namsos,V,no
+1462,Notodden,V,no
